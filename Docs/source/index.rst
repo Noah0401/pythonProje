@@ -9,12 +9,6 @@ Welcome to n's documentation!
 .. toctree::
    :maxdepth: 2
 
-   tutotial.md
-   introduction.md
-   examples/example1.md
-   examples/example2.md
-   ...
-
 
 Indices and tables
 ==================

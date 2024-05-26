@@ -6,8 +6,19 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'n'
-copyright = '2024, s'
+import os
+import sys
+sys.path.append("../..")
+import torch
+import deprecated
+import torch_geometric
+import torchmetrics
+import os.path as osp
+#import pyg_sphinx_theme
+#import prompt_graph
+
+project = 'e'
+copyright = '224, s'
 author = 's'
 
 # -- General configuration ---------------------------------------------------
@@ -25,4 +36,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-
+source_directory = os.path.abspath('../Docx')

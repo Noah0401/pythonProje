@@ -1,0 +1,12 @@
+torch
+torch_geometric
+deprecated
+torchmetrics
+pandas
+numpy
+# readthedocs 需要用到的主题依赖
+sphinx_rtd_theme
+# python项目中要用到的依赖
+pathlib
+sparc_me
+git+https://github.com/pyg-team/pyg_sphinx_theme.git

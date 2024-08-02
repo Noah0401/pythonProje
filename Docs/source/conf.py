@@ -18,8 +18,8 @@ import os.path as osp
 #import prompt_graph
 
 project = 'heheh'
-copyright = '224, s'
-author = 's'
+copyright = '2024, s'
+author = 'sssss'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

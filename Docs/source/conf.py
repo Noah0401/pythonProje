@@ -17,7 +17,7 @@ import os.path as osp
 #import pyg_sphinx_theme
 #import prompt_graph
 
-project = 'heheh'
+project = 'zhendeyaosile'
 copyright = '2024, s'
 author = 'sssss'
 
